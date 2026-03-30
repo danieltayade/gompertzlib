@@ -1,0 +1,8 @@
+setup.py
+gompertz/__init__.py
+gompertz/model.py
+gompertzlib.egg-info/PKG-INFO
+gompertzlib.egg-info/SOURCES.txt
+gompertzlib.egg-info/dependency_links.txt
+gompertzlib.egg-info/requires.txt
+gompertzlib.egg-info/top_level.txt
