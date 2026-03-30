@@ -1,1 +1,1 @@
-from .model import prepare_data, fit_curve, predict, plot_fit
+from gompertz import prepare_data, fit_curve, plot_fit
